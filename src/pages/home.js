@@ -46,8 +46,6 @@ class Home extends Component {
       		value={this.state.username}
       		handleChange={this.handleChange}
       		handleSearch={this.handleSearch}
-      		handleClear={this.handleClear}
-      		searchMode={this.state.searchMode}
 	    	/>
 	    	{this.props.message ?
 	  			(

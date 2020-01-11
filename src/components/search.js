@@ -53,16 +53,6 @@ export const Search = (props) => {
             </Icon>
           </InputAdornment>
         }
-        endAdornment={
-          props.searchMode && 
-          (
-          <InputAdornment position="end">
-            <IconButton onClick={props.handleClear} color="secondary">
-              <CancelIcon />
-            </IconButton>
-          </InputAdornment>
-          )
-        }
       />
     </FormControl>
    	</Grid>
