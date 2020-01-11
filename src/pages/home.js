@@ -40,6 +40,7 @@ class Home extends Component {
 
 	  return (
 	    <Container maxWidth='md' style={{display:'flex', flexDirection:'column'}}>
+	    	<h1>Press 'Enter' key after you input the username</h1>
 	    	<Search 
 	    		placeHolder="Input username"
       		name="username"
