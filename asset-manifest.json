@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Get_Github_Repository_by_Username/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Get_Github_Repository_by_Username/static/js/main.ef76134b.chunk.js",
+    "main.js.map": "/Get_Github_Repository_by_Username/static/js/main.ef76134b.chunk.js.map",
+    "runtime-main.js": "/Get_Github_Repository_by_Username/static/js/runtime-main.6f6063a7.js",
+    "runtime-main.js.map": "/Get_Github_Repository_by_Username/static/js/runtime-main.6f6063a7.js.map",
+    "static/js/2.bf92b81b.chunk.js": "/Get_Github_Repository_by_Username/static/js/2.bf92b81b.chunk.js",
+    "static/js/2.bf92b81b.chunk.js.map": "/Get_Github_Repository_by_Username/static/js/2.bf92b81b.chunk.js.map",
+    "index.html": "/Get_Github_Repository_by_Username/index.html",
+    "precache-manifest.b9f280ce8cf12a8895f54f5bf97063c5.js": "/Get_Github_Repository_by_Username/precache-manifest.b9f280ce8cf12a8895f54f5bf97063c5.js",
+    "service-worker.js": "/Get_Github_Repository_by_Username/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Get_Github_Repository_by_Username/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.bf92b81b.chunk.js.LICENSE": "/Get_Github_Repository_by_Username/static/js/2.bf92b81b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f6063a7.js",
+    "static/js/2.bf92b81b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ef76134b.chunk.js"
+  ]
+}
