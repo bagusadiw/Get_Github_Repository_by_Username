@@ -38,11 +38,6 @@ class Home extends Component {
 		const classes = this.props.classes
 		const repos = this.props.repos
 
-		var message;
-		if (this.props.message === "Not Found"){
-			message = "Not Found"
-		}
-
 	  return (
 	    <Container maxWidth='md' style={{display:'flex', flexDirection:'column'}}>
 	    	<h1>Press 'Enter' key after you input the username</h1>
@@ -53,7 +48,7 @@ class Home extends Component {
       		handleChange={this.handleChange}
       		handleSearch={this.handleSearch}
 	    	/>
-	    	{message ?
+	    	{this.props.message ?
 	  			(
 		  		<Grid style={{display:'flex', justifyContent:'center'}}>
       			<h2>User not found</h2>
