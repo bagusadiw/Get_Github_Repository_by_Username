@@ -19,7 +19,8 @@ const homeReducer = (state = INITIAL_STATE, action) => {
 			return {
 				...state,
 				isLoading: false,
-				repos: action.payload.data
+				repos: action.payload.data,
+				message: ''
 			}
 		case HomeActionTypes.GET_REPOS_BY_USERNAME_REJECTED :
 			return {
